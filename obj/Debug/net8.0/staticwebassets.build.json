@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OO9h+vLFGqVufwK+GFDULvcg+WWUMptzjjqP6r0c2Go=",
+  "Source": "GithubWebapp",
+  "BasePath": "_content/GithubWebapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
